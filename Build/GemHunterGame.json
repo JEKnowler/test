@@ -1,0 +1,16 @@
+{
+"companyName": "Twinkl Hive",
+"productName": "3DGemHunter",
+"productVersion": "2.0",
+"dataUrl": "GemHunterGame.data.unityweb",
+"wasmCodeUrl": "GemHunterGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "GemHunterGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
